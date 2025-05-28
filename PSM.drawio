@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.9">
   <diagram name="第 1 页" id="sQYROUgLHm38iEHhPLaQ">
-    <mxGraphModel dx="2245" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2495" dy="925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -200,7 +200,7 @@
           <mxGeometry x="980.05" y="140" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="b1RBJ78e9yClAMsC0I4h-76" value="差异大" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="b1RBJ78e9yClAMsC0I4h-4">
-          <mxGeometry x="1050.0500000000002" y="220" width="60" height="30" as="geometry" />
+          <mxGeometry x="1030.0000000000002" y="220" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b1RBJ78e9yClAMsC0I4h-77" value="技师、资深人士&lt;div&gt;确认&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="b1RBJ78e9yClAMsC0I4h-4">
           <mxGeometry x="980.05" y="250" width="120" height="80" as="geometry" />
@@ -253,9 +253,6 @@
         <mxCell id="b1RBJ78e9yClAMsC0I4h-88" value="保留PRODUCT STANDARD&lt;div&gt;FORMULA&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="b1RBJ78e9yClAMsC0I4h-4">
           <mxGeometry x="1137.2900000000002" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b1RBJ78e9yClAMsC0I4h-89" value="差异小" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="b1RBJ78e9yClAMsC0I4h-4">
-          <mxGeometry x="1100.0500000000002" y="179" as="geometry" />
-        </mxCell>
         <mxCell id="b1RBJ78e9yClAMsC0I4h-90" value="BOM" style="whiteSpace=wrap;html=1;" vertex="1" parent="b1RBJ78e9yClAMsC0I4h-4">
           <mxGeometry x="1137.2913793103448" y="150" width="120" height="60" as="geometry" />
         </mxCell>
@@ -287,7 +284,7 @@
           <mxGeometry x="120" y="10" width="160" height="130" as="geometry" />
         </mxCell>
         <mxCell id="b1RBJ78e9yClAMsC0I4h-5" value="量产（大货/样板BOM）" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="980" width="1300" height="320" as="geometry" />
+          <mxGeometry x="60" y="840" width="1520" height="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
