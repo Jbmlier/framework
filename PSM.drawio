@@ -17,16 +17,16 @@
           <mxGeometry x="60" y="360" width="960" height="170" as="geometry" />
         </mxCell>
         <mxCell id="b1RBJ78e9yClAMsC0I4h-7" value="1.production的订单必须从MASTER STANDERARD得到BOM" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="30" width="120" height="80" as="geometry" />
+          <mxGeometry x="-110" y="75" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="b1RBJ78e9yClAMsC0I4h-8" value="2.沿用现在对照上一次formula得到新的BOM" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="140" width="120" height="80" as="geometry" />
+          <mxGeometry x="-110" y="185" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="b1RBJ78e9yClAMsC0I4h-9" value="3.从MASTER STANDARD得到的修改变动大的BOM，需要技师，资深人士的确认是否更新STANDARD，发起更新操作&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="250" width="120" height="170" as="geometry" />
+          <mxGeometry x="-110" y="295" width="120" height="170" as="geometry" />
         </mxCell>
         <mxCell id="b1RBJ78e9yClAMsC0I4h-10" value="4.STANDARD的VERSION因为什么字段修改版本" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="460" width="120" height="80" as="geometry" />
+          <mxGeometry x="-110" y="505" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
