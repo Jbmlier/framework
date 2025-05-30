@@ -685,7 +685,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qVbS5RjDTOwkVPpLTX1L-63" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Organization, Personnel, Production Plan&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1164" y="520" width="210" height="30" as="geometry" />
+          <mxGeometry x="1160" y="530" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qVbS5RjDTOwkVPpLTX1L-64" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.004;entryY=0.196;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.654;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="qVbS5RjDTOwkVPpLTX1L-5" source="qVbS5RjDTOwkVPpLTX1L-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
