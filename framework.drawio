@@ -1553,7 +1553,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wTsj0Tjr5hei7nEliSIm" name="Architecture diagram-V2.4">
-    <mxGraphModel dx="1685" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2071" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1897,56 +1897,56 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GyOIitciLOsbEenTshu_-92" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;FORECAST&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="205" width="110" height="50" as="geometry" />
+          <mxGeometry x="-260" y="212.5" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GyOIitciLOsbEenTshu_-93" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Product&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Standard Master&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;（ PSM）&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-370" y="315" width="130" height="60" as="geometry" />
+          <mxGeometry x="-270" y="322.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GyOIitciLOsbEenTshu_-98" value="COSTING" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#e5ccff, #392f3f);strokeColor=#9673a6;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-365" y="425" width="120" height="60" as="geometry" />
+        <mxCell id="GyOIitciLOsbEenTshu_-98" value="COSTING DATEBASE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#e5ccff, #392f3f);strokeColor=#9673a6;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-265" y="432.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GyOIitciLOsbEenTshu_-99" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;Inter, -apple-system, BlinkMacSystemFont, Segoe UI, SF Pro SC, SF Pro Display, SF Pro Icons, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Helvetica Neue, Helvetica, Arial, sans-serif&quot; color=&quot;rgba(0, 0, 0, 0.85)&quot;&gt;&lt;span style=&quot;font-size: 16px; text-wrap-mode: wrap;&quot;&gt;PSM&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;font-size: 16px; text-wrap-mode: wrap; color: light-dark(rgba(0, 0, 0, 0.85), rgb(237, 237, 237)); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif;&quot;&gt;product&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;font-size: 16px; text-wrap-mode: wrap; color: light-dark(rgba(0, 0, 0, 0.85), rgb(237, 237, 237)); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif;&quot;&gt;Tannage、&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;font-size: 16px; text-wrap-mode: wrap; color: light-dark(rgba(0, 0, 0, 0.85), rgb(237, 237, 237)); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif;&quot;&gt;FinFormula&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;font-size: 16px; text-wrap-mode: wrap; color: light-dark(rgba(0, 0, 0, 0.85), rgb(237, 237, 237)); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif;&quot;&gt;(category、share)&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=0;fontSize=14;labelBackgroundColor=light-dark(#e5ccff, #1f2f1e);" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="200" y="190" as="geometry">
+          <mxGeometry x="300" y="197.5" as="geometry">
             <mxPoint x="-310" y="89" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GyOIitciLOsbEenTshu_-100" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Request data&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-355" y="380" width="100" height="30" as="geometry" />
+          <mxGeometry x="-255" y="387.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GyOIitciLOsbEenTshu_-102" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GyOIitciLOsbEenTshu_-98" target="GyOIitciLOsbEenTshu_-93">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-240" y="455" as="sourcePoint" />
-            <mxPoint x="-190" y="405" as="targetPoint" />
+            <mxPoint x="-140" y="462.5" as="sourcePoint" />
+            <mxPoint x="-90" y="412.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-210" y="455" />
-              <mxPoint x="-210" y="345" />
+              <mxPoint x="-110" y="462.5" />
+              <mxPoint x="-110" y="352.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="GyOIitciLOsbEenTshu_-104" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.457;entryY=-0.031;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="GyOIitciLOsbEenTshu_-98">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-310" y="375" as="sourcePoint" />
-            <mxPoint x="-260" y="325" as="targetPoint" />
+            <mxPoint x="-210" y="382.5" as="sourcePoint" />
+            <mxPoint x="-160" y="332.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GyOIitciLOsbEenTshu_-105" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Return data&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-250" y="375" width="100" height="30" as="geometry" />
+          <mxGeometry x="-150" y="382.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GyOIitciLOsbEenTshu_-108" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1.009;exitY=0.325;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="GyOIitciLOsbEenTshu_-93" target="GyOIitciLOsbEenTshu_-92">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-240" y="330" as="sourcePoint" />
-            <mxPoint x="-190" y="280" as="targetPoint" />
+            <mxPoint x="-140" y="337.5" as="sourcePoint" />
+            <mxPoint x="-90" y="287.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-210" y="335" />
-              <mxPoint x="-210" y="230" />
+              <mxPoint x="-110" y="342.5" />
+              <mxPoint x="-110" y="237.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="GyOIitciLOsbEenTshu_-109" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Return data&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-245" y="255" width="100" height="30" as="geometry" />
+          <mxGeometry x="-145" y="262.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GyOIitciLOsbEenTshu_-110" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;color: light-dark(rgba(0, 0, 0, 0.85), rgb(237, 237, 237)); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-wrap-mode: wrap; background-color: light-dark(rgb(229, 204, 255), rgb(31, 47, 30));&quot;&gt;Tannage、&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;font-size: 16px; text-wrap-mode: wrap; color: light-dark(rgba(0, 0, 0, 0.85), rgb(237, 237, 237)); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif;&quot;&gt;FinFormula&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=0;fontSize=14;labelBackgroundColor=light-dark(#e5ccff, #1f2f1e);" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="200" y="305" as="geometry">
+          <mxGeometry x="300" y="312.5" as="geometry">
             <mxPoint x="-310" y="89" as="offset" />
           </mxGeometry>
         </mxCell>
