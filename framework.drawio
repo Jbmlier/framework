@@ -1951,7 +1951,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HDRayJzu3M-HSKm_WofB-1" value="Tannage、FinFormula Daily Maintaince" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="-420" y="501" width="440" height="30" as="geometry" />
+          <mxGeometry x="-450" y="510" width="440" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HDRayJzu3M-HSKm_WofB-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="HDRayJzu3M-HSKm_WofB-2" target="HDRayJzu3M-HSKm_WofB-3">
           <mxGeometry relative="1" as="geometry" />
@@ -1962,7 +1962,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HDRayJzu3M-HSKm_WofB-2" value="技师" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-275" y="555" width="120" height="60" as="geometry" />
+          <mxGeometry x="-325" y="565" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HDRayJzu3M-HSKm_WofB-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="HDRayJzu3M-HSKm_WofB-3" target="HDRayJzu3M-HSKm_WofB-6">
           <mxGeometry relative="1" as="geometry" />
@@ -1973,10 +1973,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HDRayJzu3M-HSKm_WofB-3" value="操作员" style="whiteSpace=wrap;html=1;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-275" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="-325" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HDRayJzu3M-HSKm_WofB-6" value="database" style="whiteSpace=wrap;html=1;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-275" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="-325" y="770" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
