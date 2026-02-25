@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.1.1">
   <diagram name="第 1 页" id="N2eAkHDazYkAMa7vQWCa">
-    <mxGraphModel dx="739" dy="1640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1088" dy="1864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,13 +28,13 @@
         <mxCell id="oqZn0iyfGRXQp4aiKfef-13" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Phase&amp;nbsp;3 : Execution &amp;amp; Feedback" vertex="1">
           <mxGeometry height="160" width="1020" x="250" y="390" as="geometry" />
         </mxCell>
-        <mxCell id="oqZn0iyfGRXQp4aiKfef-15" parent="oqZn0iyfGRXQp4aiKfef-13" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Step 6 Confirmation" vertex="1">
+        <mxCell id="oqZn0iyfGRXQp4aiKfef-15" parent="oqZn0iyfGRXQp4aiKfef-13" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Step 7 Confirmation" vertex="1">
           <mxGeometry height="30" width="125" x="101" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="oqZn0iyfGRXQp4aiKfef-17" parent="oqZn0iyfGRXQp4aiKfef-13" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Step 7&amp;nbsp;Production" vertex="1">
+        <mxCell id="oqZn0iyfGRXQp4aiKfef-17" parent="oqZn0iyfGRXQp4aiKfef-13" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Step 8 Production" vertex="1">
           <mxGeometry height="30" width="135" x="407.5" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="oqZn0iyfGRXQp4aiKfef-20" parent="oqZn0iyfGRXQp4aiKfef-13" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Step 8&amp;nbsp;Feedback Loop" vertex="1">
+        <mxCell id="oqZn0iyfGRXQp4aiKfef-20" parent="oqZn0iyfGRXQp4aiKfef-13" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Step 9 Feedback Loop" vertex="1">
           <mxGeometry height="30" width="151.5" x="722.75" y="30" as="geometry" />
         </mxCell>
         <mxCell id="oqZn0iyfGRXQp4aiKfef-61" parent="oqZn0iyfGRXQp4aiKfef-13" style="rounded=1;whiteSpace=wrap;html=1;" value="The results are written back to MongoDB and displayed on a local HTML frontend as Gantt charts/reports for foreman approval." vertex="1">
@@ -49,10 +49,10 @@
         <mxCell id="oqZn0iyfGRXQp4aiKfef-21" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Phase&amp;nbsp;2 : AI Scheduling Core" vertex="1">
           <mxGeometry height="160" width="1020" x="250" y="230" as="geometry" />
         </mxCell>
-        <mxCell id="oqZn0iyfGRXQp4aiKfef-23" parent="oqZn0iyfGRXQp4aiKfef-21" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Step 2&amp;nbsp;Normalization" vertex="1">
+        <mxCell id="oqZn0iyfGRXQp4aiKfef-23" parent="oqZn0iyfGRXQp4aiKfef-21" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Step 3 Normalization" vertex="1">
           <mxGeometry height="30" width="125" x="90" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="oqZn0iyfGRXQp4aiKfef-25" parent="oqZn0iyfGRXQp4aiKfef-21" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Step 3&amp;nbsp;Mixed Batching" vertex="1">
+        <mxCell id="oqZn0iyfGRXQp4aiKfef-25" parent="oqZn0iyfGRXQp4aiKfef-21" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Step 4 Mixed Batching" vertex="1">
           <mxGeometry height="30" width="125" x="317.5" y="30" as="geometry" />
         </mxCell>
         <mxCell id="oqZn0iyfGRXQp4aiKfef-27" parent="oqZn0iyfGRXQp4aiKfef-21" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Step 5&amp;nbsp;Initial Scheduling" vertex="1">
@@ -67,7 +67,7 @@
         <mxCell id="oqZn0iyfGRXQp4aiKfef-57" parent="oqZn0iyfGRXQp4aiKfef-21" style="rounded=1;whiteSpace=wrap;html=1;" value="Identify &#39;same finished color, same crust&#39; orders and establish mixing pools." vertex="1">
           <mxGeometry height="80" width="185" x="290" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="oqZn0iyfGRXQp4aiKfef-59" parent="oqZn0iyfGRXQp4aiKfef-21" style="rounded=1;whiteSpace=wrap;html=1;" value="Greedy algorithm for generating base schedules that meet hard constraints" vertex="1">
+        <mxCell id="oqZn0iyfGRXQp4aiKfef-59" parent="oqZn0iyfGRXQp4aiKfef-21" style="rounded=1;whiteSpace=wrap;html=1;" value="Greedy,First fit algorithm for generating base schedules that meet hard constraints" vertex="1">
           <mxGeometry height="80" width="185" x="520" y="60" as="geometry" />
         </mxCell>
         <mxCell id="oqZn0iyfGRXQp4aiKfef-60" parent="oqZn0iyfGRXQp4aiKfef-21" style="rounded=1;whiteSpace=wrap;html=1;" value="DeepSeek V3 Agent performs &#39;peak shaving and valley filling&#39; and &#39;pulling to fill the gap&#39; to generate the final recommendation plan." vertex="1">
@@ -76,10 +76,10 @@
         <mxCell id="oqZn0iyfGRXQp4aiKfef-39" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Phase 1: Preparation &amp;amp;Sync" vertex="1">
           <mxGeometry height="150" width="1020" x="250" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="oqZn0iyfGRXQp4aiKfef-41" parent="oqZn0iyfGRXQp4aiKfef-39" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Step 0 On-Site Prep" vertex="1">
+        <mxCell id="oqZn0iyfGRXQp4aiKfef-41" parent="oqZn0iyfGRXQp4aiKfef-39" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Step 1 On-Site Prep" vertex="1">
           <mxGeometry height="30" width="110" x="196.5" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="oqZn0iyfGRXQp4aiKfef-47" parent="oqZn0iyfGRXQp4aiKfef-39" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Step 1 Data Sync" vertex="1">
+        <mxCell id="oqZn0iyfGRXQp4aiKfef-47" parent="oqZn0iyfGRXQp4aiKfef-39" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Step 2 Data Sync" vertex="1">
           <mxGeometry height="30" width="115" x="610" y="20" as="geometry" />
         </mxCell>
         <mxCell id="oqZn0iyfGRXQp4aiKfef-54" parent="oqZn0iyfGRXQp4aiKfef-39" style="rounded=1;whiteSpace=wrap;html=1;" value="The clerk checks the crust stock and create a Plan no in the local ERP(SQL)" vertex="1">
