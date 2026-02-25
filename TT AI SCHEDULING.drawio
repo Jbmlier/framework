@@ -37,13 +37,13 @@
         <mxCell id="oqZn0iyfGRXQp4aiKfef-20" parent="oqZn0iyfGRXQp4aiKfef-13" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Step 9 Feedback Loop" vertex="1">
           <mxGeometry height="30" width="151.5" x="722.75" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="oqZn0iyfGRXQp4aiKfef-61" parent="oqZn0iyfGRXQp4aiKfef-13" style="rounded=1;whiteSpace=wrap;html=1;" value="The results are written back to MongoDB and displayed on a local HTML frontend as Gantt charts/reports for foreman approval." vertex="1">
+        <mxCell id="oqZn0iyfGRXQp4aiKfef-61" parent="oqZn0iyfGRXQp4aiKfef-13" style="rounded=1;whiteSpace=wrap;html=1;" value="The results are written back to MongoDB and displayed&amp;nbsp; for foreman approval." vertex="1">
           <mxGeometry height="75" width="207" x="63" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="oqZn0iyfGRXQp4aiKfef-62" parent="oqZn0iyfGRXQp4aiKfef-13" style="rounded=1;whiteSpace=wrap;html=1;" value="The workshop produces according to the confirmed schedule" vertex="1">
+        <mxCell id="oqZn0iyfGRXQp4aiKfef-62" parent="oqZn0iyfGRXQp4aiKfef-13" style="rounded=1;whiteSpace=wrap;html=1;" value="The workshop produces the confirmed schedule" vertex="1">
           <mxGeometry height="75" width="197" x="376.5" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="oqZn0iyfGRXQp4aiKfef-63" parent="oqZn0iyfGRXQp4aiKfef-13" style="rounded=1;whiteSpace=wrap;html=1;" value="The next day, enter the Finishdate in the ERP; the data will be fed back into the system, completing the closed loop." vertex="1">
+        <mxCell id="oqZn0iyfGRXQp4aiKfef-63" parent="oqZn0iyfGRXQp4aiKfef-13" style="rounded=1;whiteSpace=wrap;html=1;" value="The next day enter the Finishdate in the ERP; the data will be fed back into the system, completing the closed loop." vertex="1">
           <mxGeometry height="75" width="197" x="700" y="60" as="geometry" />
         </mxCell>
         <mxCell id="oqZn0iyfGRXQp4aiKfef-21" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Phase&amp;nbsp;2 : AI Scheduling Core" vertex="1">
@@ -61,16 +61,16 @@
         <mxCell id="oqZn0iyfGRXQp4aiKfef-38" parent="oqZn0iyfGRXQp4aiKfef-21" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Step 6&amp;nbsp;Agentic Optimization" vertex="1">
           <mxGeometry height="30" width="165" x="767.5" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="oqZn0iyfGRXQp4aiKfef-56" parent="oqZn0iyfGRXQp4aiKfef-21" style="rounded=1;whiteSpace=wrap;html=1;" value="Cleaning data in MongoDB, completing mold/color information" vertex="1">
+        <mxCell id="oqZn0iyfGRXQp4aiKfef-56" parent="oqZn0iyfGRXQp4aiKfef-21" style="rounded=1;whiteSpace=wrap;html=1;" value="Cleaning data" vertex="1">
           <mxGeometry height="80" width="185" x="60" y="60" as="geometry" />
         </mxCell>
         <mxCell id="oqZn0iyfGRXQp4aiKfef-57" parent="oqZn0iyfGRXQp4aiKfef-21" style="rounded=1;whiteSpace=wrap;html=1;" value="Identify &#39;same finished color, same crust&#39; orders and establish mixing pools." vertex="1">
           <mxGeometry height="80" width="185" x="290" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="oqZn0iyfGRXQp4aiKfef-59" parent="oqZn0iyfGRXQp4aiKfef-21" style="rounded=1;whiteSpace=wrap;html=1;" value="Greedy,First fit algorithm for generating base schedules that meet hard constraints" vertex="1">
+        <mxCell id="oqZn0iyfGRXQp4aiKfef-59" parent="oqZn0iyfGRXQp4aiKfef-21" style="rounded=1;whiteSpace=wrap;html=1;" value="Algorithm for generating base schedules that meet hard constraints" vertex="1">
           <mxGeometry height="80" width="185" x="520" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="oqZn0iyfGRXQp4aiKfef-60" parent="oqZn0iyfGRXQp4aiKfef-21" style="rounded=1;whiteSpace=wrap;html=1;" value="DeepSeek V3 Agent performs &#39;peak shaving and valley filling&#39; and &#39;pulling to fill the gap&#39; to generate the final recommendation plan." vertex="1">
+        <mxCell id="oqZn0iyfGRXQp4aiKfef-60" parent="oqZn0iyfGRXQp4aiKfef-21" style="rounded=1;whiteSpace=wrap;html=1;" value="DeepSeek V3 Agent generate the final recommendation plan." vertex="1">
           <mxGeometry height="80" width="185" x="747.5" y="60" as="geometry" />
         </mxCell>
         <mxCell id="oqZn0iyfGRXQp4aiKfef-39" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Phase 1: Preparation &amp;amp;Sync" vertex="1">
@@ -82,25 +82,25 @@
         <mxCell id="oqZn0iyfGRXQp4aiKfef-47" parent="oqZn0iyfGRXQp4aiKfef-39" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Step 2 Data Sync" vertex="1">
           <mxGeometry height="30" width="115" x="610" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="oqZn0iyfGRXQp4aiKfef-54" parent="oqZn0iyfGRXQp4aiKfef-39" style="rounded=1;whiteSpace=wrap;html=1;" value="The clerk checks the crust stock and create a Plan no in the local ERP(SQL)" vertex="1">
+        <mxCell id="oqZn0iyfGRXQp4aiKfef-54" parent="oqZn0iyfGRXQp4aiKfef-39" style="rounded=1;whiteSpace=wrap;html=1;" value="&amp;nbsp;Plan no created in the local ERP(SQL)" vertex="1">
           <mxGeometry height="86" width="175" x="164" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="oqZn0iyfGRXQp4aiKfef-55" parent="oqZn0iyfGRXQp4aiKfef-39" style="rounded=1;whiteSpace=wrap;html=1;" value="Synchronize SQL Server structured data to MongoDB" vertex="1">
+        <mxCell id="oqZn0iyfGRXQp4aiKfef-55" parent="oqZn0iyfGRXQp4aiKfef-39" style="rounded=1;whiteSpace=wrap;html=1;" value="Synchronize SQL&amp;nbsp; data to MongoDB" vertex="1">
           <mxGeometry height="86" width="175" x="577" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="oqZn0iyfGRXQp4aiKfef-48" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="AI Planning Scheduling" vertex="1">
+        <mxCell id="oqZn0iyfGRXQp4aiKfef-48" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="TT AI Planning Scheduling" vertex="1">
           <mxGeometry height="170" width="1020" x="250" y="-90" as="geometry" />
         </mxCell>
-        <mxCell id="oqZn0iyfGRXQp4aiKfef-49" parent="oqZn0iyfGRXQp4aiKfef-48" style="rounded=1;whiteSpace=wrap;html=1;" value="Section 1: Algorithm layer (AI-Co-developed Python functions) → Quickly generate baseline schedules to ensure physical constraints" vertex="1">
+        <mxCell id="oqZn0iyfGRXQp4aiKfef-49" parent="oqZn0iyfGRXQp4aiKfef-48" style="rounded=1;whiteSpace=wrap;html=1;" value="Section 1: Algorithm layer (AI-Co-developed Python functions) → fits physical constraints" vertex="1">
           <mxGeometry height="30" width="885" x="60" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="oqZn0iyfGRXQp4aiKfef-50" parent="oqZn0iyfGRXQp4aiKfef-48" style="rounded=1;whiteSpace=wrap;html=1;" value="Section 2: Generative AI Layer (DeepSeek V3 Agent) → Complex optimization, achieving production balancing and dynamic adjustment" vertex="1">
+        <mxCell id="oqZn0iyfGRXQp4aiKfef-50" parent="oqZn0iyfGRXQp4aiKfef-48" style="rounded=1;whiteSpace=wrap;html=1;" value="Section 2: Generative AI Layer (DeepSeek V3 Agent) → optimization, balancing adjustment" vertex="1">
           <mxGeometry height="30" width="885" x="60" y="70" as="geometry" />
         </mxCell>
         <mxCell id="oqZn0iyfGRXQp4aiKfef-51" parent="oqZn0iyfGRXQp4aiKfef-48" style="rounded=0;whiteSpace=wrap;html=1;" value="Computing Core: Deterministic Algorithms Driven by Dual-Engine Generative AI" vertex="1">
           <mxGeometry height="50" width="166" x="130" y="110" as="geometry" />
         </mxCell>
-        <mxCell id="oqZn0iyfGRXQp4aiKfef-53" parent="oqZn0iyfGRXQp4aiKfef-48" style="rounded=0;whiteSpace=wrap;html=1;" value="Business Core: Human-in-the-Loop&amp;nbsp; → ERP Data Feedback → Continuous Iterative Optimization" vertex="1">
+        <mxCell id="oqZn0iyfGRXQp4aiKfef-53" parent="oqZn0iyfGRXQp4aiKfef-48" style="rounded=0;whiteSpace=wrap;html=1;" value="Core Logic: Human-in-the-Loop&amp;nbsp; → ERP Data Feedback → Continuous Iterative Optimization" vertex="1">
           <mxGeometry height="50" width="196" x="640" y="110" as="geometry" />
         </mxCell>
       </root>
