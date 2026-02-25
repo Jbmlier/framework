@@ -91,7 +91,7 @@
         <mxCell id="oqZn0iyfGRXQp4aiKfef-48" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="AI Planning Scheduling" vertex="1">
           <mxGeometry height="170" width="1020" x="250" y="-90" as="geometry" />
         </mxCell>
-        <mxCell id="oqZn0iyfGRXQp4aiKfef-49" parent="oqZn0iyfGRXQp4aiKfef-48" style="rounded=1;whiteSpace=wrap;html=1;" value="Section 1: Algorithm layer (reality rules) → Quickly generate baseline schedules to ensure physical constraints (molds/production lines/colors)" vertex="1">
+        <mxCell id="oqZn0iyfGRXQp4aiKfef-49" parent="oqZn0iyfGRXQp4aiKfef-48" style="rounded=1;whiteSpace=wrap;html=1;" value="Section 1: Algorithm layer (AI-Co-developed Python functions) → Quickly generate baseline schedules to ensure physical constraints" vertex="1">
           <mxGeometry height="30" width="885" x="60" y="30" as="geometry" />
         </mxCell>
         <mxCell id="oqZn0iyfGRXQp4aiKfef-50" parent="oqZn0iyfGRXQp4aiKfef-48" style="rounded=1;whiteSpace=wrap;html=1;" value="Section 2: Generative AI Layer (DeepSeek V3 Agent) → Complex optimization, achieving production balancing and dynamic adjustment" vertex="1">
