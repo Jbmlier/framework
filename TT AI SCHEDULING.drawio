@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.1.1">
   <diagram name="第 1 页" id="N2eAkHDazYkAMa7vQWCa">
-    <mxGraphModel dx="1293" dy="1994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="739" dy="1640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -91,10 +91,10 @@
         <mxCell id="oqZn0iyfGRXQp4aiKfef-48" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="AI Planning Scheduling" vertex="1">
           <mxGeometry height="170" width="1020" x="250" y="-90" as="geometry" />
         </mxCell>
-        <mxCell id="oqZn0iyfGRXQp4aiKfef-49" parent="oqZn0iyfGRXQp4aiKfef-48" style="rounded=1;whiteSpace=wrap;html=1;" value="Stage 1: Algorithm layer (reality rules) → Quickly generate baseline schedules to ensure physical constraints (molds/production lines/colors)" vertex="1">
+        <mxCell id="oqZn0iyfGRXQp4aiKfef-49" parent="oqZn0iyfGRXQp4aiKfef-48" style="rounded=1;whiteSpace=wrap;html=1;" value="Section 1: Algorithm layer (reality rules) → Quickly generate baseline schedules to ensure physical constraints (molds/production lines/colors)" vertex="1">
           <mxGeometry height="30" width="885" x="60" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="oqZn0iyfGRXQp4aiKfef-50" parent="oqZn0iyfGRXQp4aiKfef-48" style="rounded=1;whiteSpace=wrap;html=1;" value="Stage 2: Generative AI Layer (DeepSeek V3 Agent) → Complex optimization, achieving production balancing and dynamic adjustment" vertex="1">
+        <mxCell id="oqZn0iyfGRXQp4aiKfef-50" parent="oqZn0iyfGRXQp4aiKfef-48" style="rounded=1;whiteSpace=wrap;html=1;" value="Section 2: Generative AI Layer (DeepSeek V3 Agent) → Complex optimization, achieving production balancing and dynamic adjustment" vertex="1">
           <mxGeometry height="30" width="885" x="60" y="70" as="geometry" />
         </mxCell>
         <mxCell id="oqZn0iyfGRXQp4aiKfef-51" parent="oqZn0iyfGRXQp4aiKfef-48" style="rounded=0;whiteSpace=wrap;html=1;" value="Computing Core: Deterministic Algorithms Driven by Dual-Engine Generative AI" vertex="1">
